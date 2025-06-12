@@ -1,6 +1,6 @@
 # Cabin Booking System - Full Stack Application
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?logo=laravel)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-12.x-FF2D20?logo=laravel)](https://laravel.com)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)](https://reactjs.org)
 [![Sanctum](https://img.shields.io/badge/Laravel_Sanctum-3.x-FF2D20)](https://laravel.com/docs/sanctum)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -19,7 +19,6 @@ A complete cabin booking system with secure multi-role authentication and admin 
 - **Full CRUD operations** for cabins
 - **Advanced booking system** with availability checks
 - **Image upload** and management
-- **Search and filtering** functionality
 
 ### 👨‍💻 Admin Dashboard
 - **Comprehensive admin tools** for system management
